@@ -16,7 +16,7 @@ function App() {
     <main>
       <h1>this is weird</h1>
       <h2>
-        Deployed with{' '}
+        Deployed with dustins awesomeness
         <a
           href="https://vercel.com/docs"
           target="_blank"
